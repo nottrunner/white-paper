@@ -1,0 +1,2 @@
+"Ideally, there would be a way to guarantee that the PFI will send the fiat before they receive the crypto."
+Could one create an escrow contract that is instructued to hold funds until both parties have transferred funds in.  Allows participants to set the terms of how long the contract will hold funds before revrting if both parties have not made their deposits
